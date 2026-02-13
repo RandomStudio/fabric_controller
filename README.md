@@ -45,4 +45,3 @@ const char* mqtt_server = "Your_MQTT_Broker_IP";
 ## Building
 
 This project uses PlatformIO. To build and upload you can use directly the PlatformIO IDE extension in VS Code.
-
