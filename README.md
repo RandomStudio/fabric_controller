@@ -1,6 +1,6 @@
 # Fabric Controller
 
-A capacitive touch controller for fconductive fabric interfaces using an ESP32. 
+A capacitive touch controller for conductive fabric interfaces using an ESP32. 
 The controller reads touch inputs from conductive fabric sensors and publishes touch events via MQTT.
 - **Touch Inputs:**
 Three different data are read by the ESP32 and sent via MQTT to Home Assistant:
@@ -11,6 +11,7 @@ Three different data are read by the ESP32 and sent via MQTT to Home Assistant:
 ## Hardware
 
 - **Board:** Seeed XIAO ESP32-S3 (but the logic works with very ESP32 who has WiFi)
+![2](https://github.com/user-attachments/assets/41a4f83e-1865-4e66-b8a2-4062a7acf7dc)
 
 ## Features
 
