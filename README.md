@@ -14,6 +14,12 @@ Three different data are read by the ESP32 and sent via MQTT to Home Assistant:
   
 ![2](https://github.com/user-attachments/assets/41a4f83e-1865-4e66-b8a2-4062a7acf7dc)
 
+- **Fabric:**<br>
+Three different types of conductive fabrics were used, one for each controller:
+  - Approach controller: Shieldex® Technik-tex P180 + B
+  - Curtain: Shieldex® Balingen
+  - Switch button: Shieldex® Med-tex P130
+
 ## Features
 
 - WiFi connectivity for wireless communication
