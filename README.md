@@ -5,12 +5,13 @@ The controller reads touch inputs from conductive fabric sensors and publishes t
 
 ## Hardware
 
-- **Board:** Seeed XIAO ESP32-S3 (but the logic works with very ESP32 that has WiFi)<br>
+- **Board:** Seeed XIAO ESP32-S3 (but the logic works with every ESP32 that has WiFi)<br>
 - **Touch Inputs:**<br>
 Three different data are read by the ESP32 and sent via MQTT to Home Assistant:
   - T2 (white wire) - Approach sensor (proximity detection)
   - T6 (grey wire) - Curtain touch sensor
   - T9 (purple wire) - Button touch sensor<br>
+  
 ![2](https://github.com/user-attachments/assets/41a4f83e-1865-4e66-b8a2-4062a7acf7dc)
 
 ## Features
